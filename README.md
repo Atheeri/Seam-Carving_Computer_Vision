@@ -23,8 +23,8 @@ python3 seam_carving_parts_1_and_2.py input_image output_image increase/decrease
  
 # Here are some sample commands that one can use, you can copy these commands and use them in tux with the attached images:
 
-python3 seam_carving_parts_1_and_2.py pasta.jpg newpasta.png decrease 20 20
-python3 seam_carving_parts_1_and_2.py Small_scream.png output1.png increase 10 10
-python3 seam_carving_parts_1_and_2.py frog.jpg newfrog.jpg increase 5 5
-python3 seam_carving_parts_1_and_2.py Small_scream.png smaller_scream.jpg decrease 10 10
+1. python3 seam_carving_parts_1_and_2.py pasta.jpg newpasta.png decrease 20 20
+2. python3 seam_carving_parts_1_and_2.py Small_scream.png output1.png increase 10 10
+3. python3 seam_carving_parts_1_and_2.py frog.jpg newfrog.jpg increase 5 5
+4. python3 seam_carving_parts_1_and_2.py Small_scream.png smaller_scream.jpg decrease 10 10
 
